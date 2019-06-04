@@ -1,0 +1,14 @@
+C:\Users\Chamod\source\repos\Demo\Demo.BLL\bin\Debug\netstandard2.0\Demo.BLL.deps.json
+C:\Users\Chamod\source\repos\Demo\Demo.BLL\bin\Debug\netstandard2.0\Demo.BLL.dll
+C:\Users\Chamod\source\repos\Demo\Demo.BLL\bin\Debug\netstandard2.0\Demo.BLL.pdb
+C:\Users\Chamod\source\repos\Demo\Demo.BLL\bin\Debug\netstandard2.0\Demo.DataAccess.dll
+C:\Users\Chamod\source\repos\Demo\Demo.BLL\bin\Debug\netstandard2.0\Demo.Utilities.dll
+C:\Users\Chamod\source\repos\Demo\Demo.BLL\bin\Debug\netstandard2.0\Demo.DataAccess.pdb
+C:\Users\Chamod\source\repos\Demo\Demo.BLL\bin\Debug\netstandard2.0\Demo.Utilities.pdb
+C:\Users\Chamod\source\repos\Demo\Demo.BLL\obj\Debug\netstandard2.0\Demo.BLL.csprojAssemblyReference.cache
+C:\Users\Chamod\source\repos\Demo\Demo.BLL\obj\Debug\netstandard2.0\Demo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Chamod\source\repos\Demo\Demo.BLL\obj\Debug\netstandard2.0\Demo.BLL.AssemblyInfoInputs.cache
+C:\Users\Chamod\source\repos\Demo\Demo.BLL\obj\Debug\netstandard2.0\Demo.BLL.AssemblyInfo.cs
+C:\Users\Chamod\source\repos\Demo\Demo.BLL\obj\Debug\netstandard2.0\Demo.BLL.csproj.CopyComplete
+C:\Users\Chamod\source\repos\Demo\Demo.BLL\obj\Debug\netstandard2.0\Demo.BLL.dll
+C:\Users\Chamod\source\repos\Demo\Demo.BLL\obj\Debug\netstandard2.0\Demo.BLL.pdb

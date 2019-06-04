@@ -1,0 +1,8 @@
+C:\Users\Chamod\source\repos\Demo\Demo.Utilities\bin\Debug\netstandard2.0\Demo.Utilities.deps.json
+C:\Users\Chamod\source\repos\Demo\Demo.Utilities\bin\Debug\netstandard2.0\Demo.Utilities.dll
+C:\Users\Chamod\source\repos\Demo\Demo.Utilities\bin\Debug\netstandard2.0\Demo.Utilities.pdb
+C:\Users\Chamod\source\repos\Demo\Demo.Utilities\obj\Debug\netstandard2.0\Demo.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Chamod\source\repos\Demo\Demo.Utilities\obj\Debug\netstandard2.0\Demo.Utilities.AssemblyInfoInputs.cache
+C:\Users\Chamod\source\repos\Demo\Demo.Utilities\obj\Debug\netstandard2.0\Demo.Utilities.AssemblyInfo.cs
+C:\Users\Chamod\source\repos\Demo\Demo.Utilities\obj\Debug\netstandard2.0\Demo.Utilities.dll
+C:\Users\Chamod\source\repos\Demo\Demo.Utilities\obj\Debug\netstandard2.0\Demo.Utilities.pdb

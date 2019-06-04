@@ -1,0 +1,12 @@
+C:\Users\Chamod\source\repos\Demo\Demo.DataAccess\bin\Debug\netstandard2.0\Demo.DataAccess.deps.json
+C:\Users\Chamod\source\repos\Demo\Demo.DataAccess\bin\Debug\netstandard2.0\Demo.DataAccess.dll
+C:\Users\Chamod\source\repos\Demo\Demo.DataAccess\bin\Debug\netstandard2.0\Demo.DataAccess.pdb
+C:\Users\Chamod\source\repos\Demo\Demo.DataAccess\bin\Debug\netstandard2.0\Demo.Utilities.dll
+C:\Users\Chamod\source\repos\Demo\Demo.DataAccess\bin\Debug\netstandard2.0\Demo.Utilities.pdb
+C:\Users\Chamod\source\repos\Demo\Demo.DataAccess\obj\Debug\netstandard2.0\Demo.DataAccess.csprojAssemblyReference.cache
+C:\Users\Chamod\source\repos\Demo\Demo.DataAccess\obj\Debug\netstandard2.0\Demo.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Chamod\source\repos\Demo\Demo.DataAccess\obj\Debug\netstandard2.0\Demo.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Chamod\source\repos\Demo\Demo.DataAccess\obj\Debug\netstandard2.0\Demo.DataAccess.AssemblyInfo.cs
+C:\Users\Chamod\source\repos\Demo\Demo.DataAccess\obj\Debug\netstandard2.0\Demo.DataAccess.csproj.CopyComplete
+C:\Users\Chamod\source\repos\Demo\Demo.DataAccess\obj\Debug\netstandard2.0\Demo.DataAccess.dll
+C:\Users\Chamod\source\repos\Demo\Demo.DataAccess\obj\Debug\netstandard2.0\Demo.DataAccess.pdb
